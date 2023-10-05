@@ -24,6 +24,7 @@
 - [Suraj Yadav](https://github.com/suraj-yadav0)
 - [Donald Nwokoro](https://github.com/donguillotine)
 - [Ullas Kakanadan](https://github.com/uk974q)
+- [Kalindi Maheshwari](https://github.com/kalindi07)
 - [Bhawana Gaur](https://github.com/bhawana2001)
 - [Abhishik karmakar](https://github.com/AbhisKarma/)
 - [Shalom Riona Fernandes](https://github.com/shalomrionafernandes)
